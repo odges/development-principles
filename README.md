@@ -27,6 +27,25 @@ Guide to design of structure.
 21. Code should depend on abstractions, not specific implementations
 22. Keep a balance between efficiency and code clarity, avoid the pursuit of false efficiency
 23. Don't add functionality unless you are sure you need it, according to YAGNI (You aren't gonna need it)
+24. If it is possible to specify something — specify it explicitly
+25. Delegate, don't do all the work yourself, assign it to the appropriate class
+
+## Additional links
+* [Coding Guidelines](https://medium.com/@luisacarrion/general-coding-guidelines-clean-code-from-day-1-9ab0804e5d91)
+* [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+* [The Power of 10](http://web.eecs.umich.edu/~imarkov/10rules.pdf)
+* [Google JS Code Style](https://google.github.io/styleguide/jsguide.html#formatting-column-limit)
+* [PHP Code Style](https://www.php-fig.org/psr/psr-2/)
+* [Android Code Style](https://source.android.com/setup/contribute/code-style#limit-line-length)
+* [OWASP Secure Coding Practices](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf)
+* [Code Smell ](https://wiki.c2.com/?CodeSmell)
+* [Cohesion and Coupling](https://enterprisecraftsmanship.com/posts/cohesion-coupling-difference/)
+* [Abstraction Principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming))
+* [CQS Principle](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+* [Принципы ООП](https://habr.com/ru/company/skillbox/blog/454314/)
+* [Rules of Trumb](https://medium.com/@vedantsopinions/software-engineering-rules-of-thumb-63060ca51)
+* [Rules of Trumb](https://wou.edu/las/cs/csclasses/cs161/Lectures/rulesofthumb.html)
+* [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 ## Another languages
 [Russian](https://github.com/w3bsme/design-principles/blob/main/README_RU.md)
