@@ -27,6 +27,25 @@
 21. Код должен зависеть от абстракций, а не от конкретных реализаций
 22. Держите баланс между эффективностью и ясностью кода, не допускайте погоню за ложной эффективностью
 23. Не добавляйте функциональности, пока вы точно не уверены в её надобности, согласно YAGNI (You aren't gonna need it)
+24. Если есть возможность явно указать что-то - указывайте явно
+25. Делегируйте, не делайте всю работу сами, поручите её соответствующему классу
+
+## Дополнительные ссылки
+* [Coding Guidelines](https://medium.com/@luisacarrion/general-coding-guidelines-clean-code-from-day-1-9ab0804e5d91)
+* [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+* [The Power of 10](http://web.eecs.umich.edu/~imarkov/10rules.pdf)
+* [Google JS Code Style](https://google.github.io/styleguide/jsguide.html#formatting-column-limit)
+* [PHP Code Style](https://www.php-fig.org/psr/psr-2/)
+* [Android Code Style](https://source.android.com/setup/contribute/code-style#limit-line-length)
+* [OWASP Secure Coding Practices](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf)
+* [Code Smell ](https://wiki.c2.com/?CodeSmell)
+* [Cohesion and Coupling](https://enterprisecraftsmanship.com/posts/cohesion-coupling-difference/)
+* [Abstraction Principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming))
+* [CQS Principle](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+* [Принципы ООП](https://habr.com/ru/company/skillbox/blog/454314/)
+* [Rules of Trumb](https://medium.com/@vedantsopinions/software-engineering-rules-of-thumb-63060ca51)
+* [Rules of Trumb](https://wou.edu/las/cs/csclasses/cs161/Lectures/rulesofthumb.html)
+* [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 ## Прочитать на другом языке
 [Английский](https://github.com/w3bsme/design-principles/blob/main/README.md)
